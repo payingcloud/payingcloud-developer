@@ -1,0 +1,14 @@
+= PayingCloud API 文档
+黄玉强 <hyq@payingcloud.cn>, 王众民 <wangzhonmin@payingcloud.cn>
+:description: PayingCloud 聚合支付 API
+:keywords: PayingCloud, 聚合支付
+:sectlinks:
+:sectanchors:
+:sectnums:
+:toclevels: 4
+:encoding: utf-8
+:imagesdir: images
+:toc: left
+:toc-title: 目录
+
+== 文档说明
